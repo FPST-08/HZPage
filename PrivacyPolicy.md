@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Privacy Policy
 ---
 
 # Privacy Policy für Hörspielzentrale
