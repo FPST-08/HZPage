@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Terms of Service
+nav_order: 2
 ---
 
 # Terms of Service für Hörspielzentrale
