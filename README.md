@@ -3,19 +3,23 @@ layout: default
 title: Über
 ---
 
-# Die Hörspielzentrale
-Die Hörspielzentrale erleichtert das Abspielen von Hörspielen über Apple Music.
+# DramaPoint
+The easiest way to enjoy audio dramas on Apple Music.
 
-Zu den Funktionen zählen:
-- Die Wiedergabe ist auf Hörspiele optimiert. Springe ganz einfach zu der gewünschten Stelle, auch über Tracks hinweg.
-- Die Hörspielzentrale merkt sich, bis wohin du ein Hörspiel du schon gespielt hast. So kannst du später ganz einfach dort weiterhören
-- Alle Hörspiele aus Apple Music sind verfügbar
-- Überspringe automatisch ungewünschte Teile eines Hörspiels wie etwa die Inhaltsangabe oder das Outro.
-- Erhalte Benachrichtigungen zu neu erscheinenden Hörspielen, um nie wieder eine Veröffentlichung zu verpassen.
-- Die Zufalls-Funktion erlöst dich von der "Qual der Wahl", indem ein passendes Hörspiel für dich ausgesucht wird.
-- Erfahre Informationen wie Kapitel, Beschreibung und Sprecher von deinem Lieblings-Hörspiel. 
-- Die Hörspiele werden chronologisch geordnet, sodass du ganz einfach eine Hörspiel-Reihe in der richtigen Reihenfolge hören kannst.
-- Behalte immer den Überblick, welche Hörspiele du schon gehört hast und wann. So fängst du nie wieder versehentlich ein Hörspiel an, das du erst letztens gehört hast.
-- Neue Hörspiele werden dir gekennzeichnet
-- Der Sleep-Timer pausiert die Wiedergabe nach einer gewünschten Zeit, damit das Hörspiel nicht die ganze Nacht weiter läuft.
-- Widgets zeigen dir deine Hörspiele auf dem Home-Screen an.
+DramaPoint is designed specifically for audio drama lovers. With smart playback controls, personalized tracking, and discovery features, it makes listening effortless and immersive.
+
+Key Features:
+- Optimized Playback: Seamlessly skip to the right scene—even across tracks.
+- Resume Listening: DramaPoint remembers your progress so you can pick up right where you left off.
+- Apple Music Integration: Instantly access all available audio dramas from Apple Music.
+- Skip Intros & Outros: Automatically bypass repetitive sections.
+- New Release Alerts: Get notified when new dramas drop.
+- Random Play: Not sure what to listen to? Let DramaPoint choose for you.
+- Episode Details: See chapters, descriptions, and narrator info.
+- Chronological Order: Episodes are sorted to follow the correct story flow.
+- Listening History: Track which dramas you’ve heard and when.
+- New Flags: Easily spot newly added audio dramas.
+- Sleep Timer: Set it and drift off—playback will stop automatically.
+- Widgets: Display your dramas right on your home screen.
+- CSV-Export: Export your data to a CSV file
+- LiveActivity: Most important information on your lockscreen
